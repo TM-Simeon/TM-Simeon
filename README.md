@@ -2,7 +2,7 @@
 - 👀 I’m interested in c#, java, javascript, php
 - 🌱 I’m currently learning C programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mnaanterdoosimeon@gmail.com
+- 📫 How to reach me mnaan.simeon@st.futminna.edu.ng
 
 <!---
 TM-Simeon/TM-Simeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
