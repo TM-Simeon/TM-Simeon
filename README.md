@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TM-Simeon
-- 👀 I’m interested in c++, c, python, embedded systems and industrial automation
-- 🌱 I’m currently learning embedded systems
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development, machine learning and process optimization
+- 🌱 I’m currently working on edtech projects
 - 📫 How to reach me mnaan.simeon@st.futminna.edu.ng
 
 <!---
